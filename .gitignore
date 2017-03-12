@@ -1,0 +1,8 @@
+.metadata
+bin/
+output/
+.settings/
+target/
+classes/
+*.log*
+*.project
